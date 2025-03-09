@@ -37,9 +37,11 @@ sites:
     tasks:
     - daily_shotbox
     - daily_checkin
+    - daily_vs_boss
   Zm:
     cookie: ''
     enabled: true
     tasks:
     - daily_shotbox
     - daily_checkin
+    - medal_bonus
